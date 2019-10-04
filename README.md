@@ -1,8 +1,6 @@
 # Expresiones recursivas e iterativas
 
--Término n de la serie de fibonacci
--Potencia de enteros 
--División de enteros
+Término n de la serie de fibonacci, Potencia de enteros y División de enteros
 
 ##  Integrantes
 
