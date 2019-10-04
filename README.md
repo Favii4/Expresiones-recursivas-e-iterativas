@@ -1,4 +1,6 @@
-Expresiones recursivas e iterativas
+# Expresiones recursivas e iterativas
 
-Fabian Alexander Franco Quiroga - 20152020048 
-Diego Alejandro Malagón - 20162020098
+##  Integrantes
+
+- Fabian Alexander Franco Quiroga - 20152020048 
+- Diego Alejandro Malagón - 20162020098
